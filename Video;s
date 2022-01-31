@@ -1,0 +1,55 @@
+DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Janis Joplin</title>
+<meta name="description" content="Janis Joplin pagina">
+<meta name="keywords" content="Janis Joplin, muziek, fanpage">
+<meta name="author" content="Jan Modal">
+</head>
+<body>
+<header>
+<h1>Janis Joplin</h1><hr><br>
+<a href="janis.pdf">Lees hier een paar teksten over Janis Joplin</a>
+</header>
+<section>
+<img src="janis.jpg" alt="foto van Janis Joplin">
+<img src="janis2.jpg" alt="foto van Janis Joplin"><br>
+<p>Joplins vader werkte bij Texaco Oil Company en haar moeder was administrateur. Joplin bezocht in de vroege jaren zestig enkele universiteiten, maar studeerde nooit af. De muziek trok haar meer en dan met name de blues, rock-'n-roll en soul. Grote voorbeelden voor haar waren Odetta, Lead Belly, Bessie Smith, Big Mama Thornton en Otis Redding. In 1963 woonde Joplin enige tijd in San Francisco waar ze aan harddrugs verslaafd raakte, maar ze keerde al snel terug naar Port Arthur om af te kicken. In 1966 vertrok Joplin opnieuw naar San Francisco op uitnodiging van de impresario van Big Brother and the Holding Company, Chet Helms. In het begin was de band niet succesvol, maar de grote doorbraak kwam met het optreden op het Monterey Pop Festival in 1967. Met het album dat daarna verscheen, Cheap Thrills, vestigde Joplin definitief haar naam als blueszangeres. Het bekende lied van de Canadese dichter/zanger Leonard Cohen, Chelsea Hotel No 2, werd geschreven voor Joplin.</p>
+</section>
+<section>
+<h3>Janis Joplin Filmpjes</h3><br>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/7uG2gYE5KOs"
+title="YouTube video player"
+frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; pic-ture-in-picture" allowfullscreen>
+</iframe>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/3SL0oRcD7t0"
+title="YouTube video player"
+frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/sfjon-ZTqzU"
+title="YouTube video player"
+frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; pic-ture-in-picture" allowfullscreen>
+</iframe>
+<iframe width="560" height="315"
+title="YouTube video player"
+src="https://www.youtube.com/embed/Qev-i9-VKlY"
+frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/VfGSd-tikH4"
+title="YouTube video player"
+frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; picture-in-picture" allowfull-screen>
+</iframe>
+</section>
+<footer></footer>
+</body>
+</html>
